@@ -6,6 +6,7 @@ langchain-chroma
 langchain-community
 chromadb
 sentence-transformers
-pymupdf
+pdfplumber
 pandas
 openpyxl
+tf-keras

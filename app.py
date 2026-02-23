@@ -120,3 +120,6 @@ if pregunta_usuario:
 
             except Exception as e:
                 st.error(f"Hubo un error al procesar la respuesta: {e}")
+
+st.markdown("---")
+st.markdown("🎯 Desarrollado por Enrique Zamora®️ v1.1 IA IA IA 🚀")
