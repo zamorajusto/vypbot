@@ -122,4 +122,4 @@ if pregunta_usuario:
                 st.error(f"Hubo un error al procesar la respuesta: {e}")
 
 st.markdown("---")
-st.markdown("<small>🎯 Desarrollado por Enrique Zamora®️ v1.2🚀</small>")
+st.markdown("🎯 Desarrollado por Enrique Zamora®️ v1.2🚀")
